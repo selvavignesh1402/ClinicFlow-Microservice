@@ -1,0 +1,12 @@
+D:\Projects\Clinic-Flow-Backend-Microservice\patient-service\src\main\java\com\HospitalManagement\patient\config\SecurityConfig.java
+D:\Projects\Clinic-Flow-Backend-Microservice\patient-service\src\main\java\com\HospitalManagement\patient\controller\InternalPatientController.java
+D:\Projects\Clinic-Flow-Backend-Microservice\patient-service\src\main\java\com\HospitalManagement\patient\controller\PatientController.java
+D:\Projects\Clinic-Flow-Backend-Microservice\patient-service\src\main\java\com\HospitalManagement\patient\dto\PatientRequestDto.java
+D:\Projects\Clinic-Flow-Backend-Microservice\patient-service\src\main\java\com\HospitalManagement\patient\dto\PatientResponseDto.java
+D:\Projects\Clinic-Flow-Backend-Microservice\patient-service\src\main\java\com\HospitalManagement\patient\entity\Patient.java
+D:\Projects\Clinic-Flow-Backend-Microservice\patient-service\src\main\java\com\HospitalManagement\patient\entity\ProblemList.java
+D:\Projects\Clinic-Flow-Backend-Microservice\patient-service\src\main\java\com\HospitalManagement\patient\exception\GlobalExceptionHandler.java
+D:\Projects\Clinic-Flow-Backend-Microservice\patient-service\src\main\java\com\HospitalManagement\patient\PatientServiceApplication.java
+D:\Projects\Clinic-Flow-Backend-Microservice\patient-service\src\main\java\com\HospitalManagement\patient\repository\PatientRepository.java
+D:\Projects\Clinic-Flow-Backend-Microservice\patient-service\src\main\java\com\HospitalManagement\patient\repository\ProblemListRepository.java
+D:\Projects\Clinic-Flow-Backend-Microservice\patient-service\src\main\java\com\HospitalManagement\patient\service\PatientService.java

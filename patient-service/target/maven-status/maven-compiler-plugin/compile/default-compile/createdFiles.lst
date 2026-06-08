@@ -1,0 +1,14 @@
+com\HospitalManagement\patient\dto\PatientResponseDto.class
+com\HospitalManagement\patient\repository\PatientRepository.class
+com\HospitalManagement\patient\PatientServiceApplication.class
+com\HospitalManagement\patient\repository\ProblemListRepository.class
+com\HospitalManagement\patient\controller\PatientController.class
+com\HospitalManagement\patient\exception\GlobalExceptionHandler.class
+com\HospitalManagement\patient\entity\ProblemList.class
+com\HospitalManagement\patient\config\SecurityConfig.class
+com\HospitalManagement\patient\controller\InternalPatientController.class
+com\HospitalManagement\patient\dto\PatientRequestDto.class
+com\HospitalManagement\patient\entity\ProblemList$ProblemListBuilder.class
+com\HospitalManagement\patient\entity\Patient.class
+com\HospitalManagement\patient\service\PatientService.class
+com\HospitalManagement\patient\entity\Patient$PatientBuilder.class
